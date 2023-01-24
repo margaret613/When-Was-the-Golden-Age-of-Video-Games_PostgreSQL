@@ -6,8 +6,8 @@
 - AGGREGATE FUNCTIONS: COUNT(), SUM(), AVG()
 - Subqueries in WHERE
 
-## 3. Dataset
-The data used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata).
+## 2. Dataset
+The data used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata). It contains information about game sales from 1977 to 2020.
 
 
 
