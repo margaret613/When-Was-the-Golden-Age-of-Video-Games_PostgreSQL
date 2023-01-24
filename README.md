@@ -7,7 +7,7 @@
 - Subqueries in WHERE
 
 ## 2. Dataset
-The data used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata). It contains information about game sales from 1977 to 2020.
+The data used in this project is provided by [Kaggle](https://www.kaggle.com/datasets/holmjason2/videogamedata). It contains information about video game sales from 1977 to 2020.
 
 
 
